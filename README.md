@@ -1,6 +1,6 @@
 <h1 align="center">🍽️ React Native Recipe App 🍽️</h1>
 
-![Demo App](/mobile/assets/images//)
+![Demo App](thumbnail.png)
 
 Highlights:
 
